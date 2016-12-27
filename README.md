@@ -22,7 +22,7 @@ public class loopy{
   while (x<4){
   
     System.out.println("In the Loop");
-    system.out.println("Value of x is" + x);
+    System.out.println("Value of x is" + x);
       x = x + 1;
       
    }
