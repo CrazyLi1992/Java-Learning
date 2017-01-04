@@ -59,7 +59,7 @@ class IfTest2{
 }
 }
 
-# 从99到0计数
+#从99到0计数
 public class ss{
   public static void main(String[] args){
     int x = 99;
@@ -72,7 +72,8 @@ public class ss{
     }
   }
 }
- # 数啤酒瓶童谣
+
+#数啤酒瓶童谣
  public class BeerSong{
   public static void main (String[] args){
     int beerNum = 99;
